@@ -30,7 +30,7 @@ switch (diaSemana) {
 
 //El bucle se ejecute de 20 a 70.
 
-for(i=20;i<=70;i++){
+for(let i=20;i<=70;i++){
 
 document.write("El número es: " + i + "<br>");
 }
